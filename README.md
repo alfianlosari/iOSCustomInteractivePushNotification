@@ -18,6 +18,8 @@ A simple demo showcasing interactive custom push notification UI that has severa
 
 - Clone and run the project from simulator
 - Use the provided APNS file in the project to drag and drop to target simulator
+- Replace the app id using your own app id
+- Set the value of `Simulator Target Bundler` key in the apns file to your app id
 - Open the notification preview
 
 
