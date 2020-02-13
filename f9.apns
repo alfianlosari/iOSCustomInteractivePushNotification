@@ -1,0 +1,14 @@
+{
+   "aps" : {
+      "alert" : {
+         "title" : "A new trailer has arrived for you",
+         "body" : "Fast and Furious F9 Official Trailer"
+      },
+      "category" : "testNotificationCategory",
+      "sound": "bingbong.aiff",
+      "badge": 3,
+   },
+   "videoId" : "Kopyc23VfSw",
+   "description": "Release date: 05-21-2020",
+   "Simulator Target Bundle": "com.alfianlosari.apnspushsimulate"
+}

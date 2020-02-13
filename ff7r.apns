@@ -1,0 +1,14 @@
+{
+   "aps" : {
+      "alert" : {
+         "title" : "A new trailer has arrived for you",
+         "body" : "Final Fantasy VII Remake Official Trailer"
+      },
+      "category" : "testNotificationCategory",
+      "sound": "bingbong.aiff",
+      "badge": 3,
+   },
+   "videoId" : "tEPb8uQ27BI",
+   "description": "Release date: 04-10-2020",
+   "Simulator Target Bundle": "com.alfianlosari.apnspushsimulate"
+}
