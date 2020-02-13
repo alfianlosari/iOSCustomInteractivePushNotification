@@ -1,4 +1,4 @@
-## InteractiveCustomPushNotificationUI
+## Interactive Custom Push Notification UI with Simulated Remote Push Notification
 
 ![Alt text](./promo.jpg?raw=true "Custom Push notification UI")
 
